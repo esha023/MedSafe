@@ -1,2 +1,5 @@
-# MedSafe
-Under development:  Medsafe — a health-focused project aiming to reduce the overall impact of ADRs globally
+## Running the code
+
+Run `npm i` to install the dependencies.
+
+Run `npm run dev` to start the development server.
